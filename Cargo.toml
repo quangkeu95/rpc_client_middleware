@@ -8,7 +8,9 @@ authors = ["quangkeu95"]
 repository = "https://github.com/quangkeu95/rpc_client_middleware"
 homepage = "https://github.com/quangkeu95/rpc_client_middleware"
 
+
 [dependencies]
+solana-client = "~1.16"
 # anyhow = "1.0.82"
 # inquire = "0.7.4"
 # tracing = "0.1.40"
